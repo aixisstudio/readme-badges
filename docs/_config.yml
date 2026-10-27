@@ -1,0 +1,6 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Readme Badges
+description: The largest collection of markdown badges for your READMEs
+show_downloads: false
