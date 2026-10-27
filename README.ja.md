@@ -63,6 +63,62 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 
 Full logo catalog: https://simpleicons.org
 
+## 🏗️ Frameworks & Libraries
+
+```markdown
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Node](https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
+```
+
+## ☁️ Cloud & DevOps
+
+```markdown
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+```
+
+## 🗄️ Databases
+
+```markdown
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+```
+
+## 🤖 AI & LLM
+
+```markdown
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HF-FFD21E?logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TF-FF6F00?logo=tensorflow&logoColor=white)
+```
+
+## 🎨 Style reference (cheat table)
+
+| Style | Param | Look |
+|---|---|---|
+| flat | `?style=flat` | clean default |
+| flat-square | `?style=flat-square` | sharper |
+| for-the-badge | `?style=for-the-badge` | big blocks |
+| plastic | `?style=plastic` | glossy |
+| social | `?style=social` | GitHub stars style |
+
 ---
 ## 貢献
 
