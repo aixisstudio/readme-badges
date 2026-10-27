@@ -1,9 +1,7 @@
 # readme-badges
 > The largest collection of markdown badges for your READMEs
-Maintained by aixisstudio (https://github.com/aixisstudio). Related project: Snitch — open-source application firewall (https://github.com/aixisstudio/Snitch).
-Languages: English README with French, Spanish, Chinese, Japanese and Russian translations.
+Maintained by aixisstudio. Related: Snitch (open-source app firewall). https://github.com/aixisstudio/readme-badges
 
-## Content
 ## 🏷️ Markdown badges, ready to paste
 
 Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&logoColor=white)` — replace LABEL/VALUE/COLOR/LOGO.
@@ -35,4 +33,5 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 
 ```markdown
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Security](https://img.shields.io/badge/Security-FF0000?l
+![Security](https://img.shields.io/badge/Security-FF0000?logo=hackthebox&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?log
