@@ -4,13 +4,11 @@
 
 Крупнейшая коллекция markdown-бейджей для README
 
-_Подробное содержимое (списки, ссылки, описания) ведётся на английском — разделы ниже помогут сориентироваться._
+##  to️ Знаки разметки, готовые к вставке
 
-## 🏷️ Markdown badges, ready to paste
+Используемый формат: `![alt](URLPH0X)` — заменить LABEL/VALUE/COLOR/LOGO.
 
-Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&logoColor=white)` — replace LABEL/VALUE/COLOR/LOGO.
-
-## 💻 Languages
+###Языки
 
 ```markdown
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -23,7 +21,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ```
 
-## 🖥️ OS & Platforms
+##  ️ ОС и платформы
 
 ```markdown
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
@@ -33,7 +31,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ```
 
-## 🔒 Security & Network
+## Безопасность и сеть
 
 ```markdown
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
@@ -41,7 +39,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ```
 
-## 📊 Repo meta (dynamic — shields reads GitHub)
+## ) Repo meta (динамический — щиты читает GitHub)
 
 ```markdown
 ![Stars](https://img.shields.io/github/stars/USER/REPO?style=social)
@@ -52,18 +50,18 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![CI](https://img.shields.io/github/actions/workflow/status/USER/REPO/ci.yml)
 ```
 
-## 🌈 Style parameters
+##  parameters Параметры стиля
 
-| Param | Effect |
+Парам, эффект.
 |---|---|
-| `style=flat` | default clean look |
-| `style=flat-square` | sharp corners |
-| `style=for-the-badge` | big blocky badges |
-| `style=social` | GitHub-style stars/forks |
+| `style=flat` | чистый вид по умолчанию
+`style=flat-square` - острые углы
+`style=for-the-badge` - большие блочные значки
+Звезды в стиле GitHub / Forks
 
-Full logo catalog: https://simpleicons.org
+Полный каталог логотипов: https://simpleicons.org
 
-## 🏗️ Frameworks & Libraries
+##  ️ Рамки и библиотеки
 
 ```markdown
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -76,7 +74,7 @@ Full logo catalog: https://simpleicons.org
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
 ```
 
-## ☁️ Cloud & DevOps
+##  ️ Облако и DevOps
 
 ```markdown
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=white)
@@ -88,7 +86,7 @@ Full logo catalog: https://simpleicons.org
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ```
 
-## 🗄️ Databases
+##  ️ Базы данных
 
 ```markdown
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
@@ -98,7 +96,7 @@ Full logo catalog: https://simpleicons.org
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ```
 
-## 🤖 AI & LLM
+##   AI & LLM
 
 ```markdown
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
@@ -109,15 +107,15 @@ Full logo catalog: https://simpleicons.org
 ![TensorFlow](https://img.shields.io/badge/TF-FF6F00?logo=tensorflow&logoColor=white)
 ```
 
-## 🎨 Style reference (cheat table)
+##  Style Ссылка на стиль (таблица обмана)
 
-| Style | Param | Look |
+Стиль, парам, смотреть
 |---|---|---|
-| flat | `?style=flat` | clean default |
-| flat-square | `?style=flat-square` | sharper |
-| for-the-badge | `?style=for-the-badge` | big blocks |
-| plastic | `?style=plastic` | glossy |
-| social | `?style=social` | GitHub stars style |
+| плоский | `?style=flat` | чистый по умолчанию
+| плоский квадрат | `?style=flat-square` | острее |
+| для значка | `?style=for-the-badge` | большие блоки |
+Пластик, `?style=plastic`, глянцевый
+| социальный | `?style=social` | Стиль звезд GitHub
 
 ---
 ## Участие
