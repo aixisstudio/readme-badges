@@ -4,13 +4,11 @@
 
 README 用マークダウンバッジの最大コレクション
 
-_詳細なコンテンツ（リスト・リンク・説明）は保守のため英語です。以下のセクションがガイドになります。_
+## ️️ マークダウンバッジ、ペーストの準備
 
-## 🏷️ Markdown badges, ready to paste
+使用されるフォーマット: `![alt](URLPH0X)` — LABEL/VALUE/COLOR/LOGO を置き換えます。
 
-Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&logoColor=white)` — replace LABEL/VALUE/COLOR/LOGO.
-
-## 💻 Languages
+## . 言語
 
 ```markdown
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -23,7 +21,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ```
 
-## 🖥️ OS & Platforms
+## 警告️ OS & プラットフォーム
 
 ```markdown
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
@@ -33,7 +31,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ```
 
-## 🔒 Security & Network
+セキュリティとネットワーク
 
 ```markdown
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
@@ -41,7 +39,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ```
 
-## 📊 Repo meta (dynamic — shields reads GitHub)
+## 📊ポメタ (ダイナミクス — シールドは GitHub を読み込みます)
 
 ```markdown
 ![Stars](https://img.shields.io/github/stars/USER/REPO?style=social)
@@ -52,18 +50,18 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![CI](https://img.shields.io/github/actions/workflow/status/USER/REPO/ci.yml)
 ```
 
-## 🌈 Style parameters
+## スタイルパラメータ
 
-| Param | Effect |
+| パラム | 効果 |
 |---|---|
-| `style=flat` | default clean look |
-| `style=flat-square` | sharp corners |
-| `style=for-the-badge` | big blocky badges |
-| `style=social` | GitHub-style stars/forks |
+| `style=flat` | 既定のクレンジングル |
+| `style=flat-square` | シャープコーナー |
+| `style=for-the-badge` | ビッグブロックバッジ |
+| `style=social` | GitHub スタイルの星/フォーク |
 
-Full logo catalog: https://simpleicons.org
+フルロゴカタログ: https://simpleicons.org
 
-## 🏗️ Frameworks & Libraries
+## ️️フレームワークとライブラリ
 
 ```markdown
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -76,7 +74,7 @@ Full logo catalog: https://simpleicons.org
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
 ```
 
-## ☁️ Cloud & DevOps
+## クラウド&DevOps
 
 ```markdown
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=white)
@@ -88,7 +86,7 @@ Full logo catalog: https://simpleicons.org
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ```
 
-## 🗄️ Databases
+## ️️ データベース
 
 ```markdown
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
@@ -98,7 +96,7 @@ Full logo catalog: https://simpleicons.org
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ```
 
-## 🤖 AI & LLM
+## 🤖 🤖
 
 ```markdown
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
@@ -109,15 +107,15 @@ Full logo catalog: https://simpleicons.org
 ![TensorFlow](https://img.shields.io/badge/TF-FF6F00?logo=tensorflow&logoColor=white)
 ```
 
-## 🎨 Style reference (cheat table)
+## カートスタイルリファレンス(小テーブル)
 
-| Style | Param | Look |
+| スタイル | パラム | 見る |
 |---|---|---|
-| flat | `?style=flat` | clean default |
-| flat-square | `?style=flat-square` | sharper |
-| for-the-badge | `?style=for-the-badge` | big blocks |
-| plastic | `?style=plastic` | glossy |
-| social | `?style=social` | GitHub stars style |
+| フラット | `?style=flat` | クリーンなデフォルト |
+| フラットスクエア | `?style=flat-square` | シャープ |
+| 要塞 | `?style=for-the-badge` | 大ブロック |
+| プラスチック | `?style=plastic` | 光沢のある |
+| ソーシャル | `?style=social` | GitHub スタースタイル |
 
 ---
 ## 貢献
