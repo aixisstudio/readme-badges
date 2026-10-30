@@ -4,13 +4,11 @@
 
 最大的 Markdown 徽章合集
 
-_详细内容（列表、链接、描述）以英文维护 — 以下章节为你指引。_
+□□□□□□□□□□□
 
-## 🏷️ Markdown badges, ready to paste
+使用的格式:`![alt](URLPH0X)`——替换LABEL/VALUE/COLOR/LOGO.
 
-Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&logoColor=white)` — replace LABEL/VALUE/COLOR/LOGO.
-
-## 💻 Languages
+□ 语文
 
 ```markdown
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -23,7 +21,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ```
 
-## 🖥️ OS & Platforms
+^ OS & 平台
 
 ```markdown
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
@@ -33,7 +31,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ```
 
-## 🔒 Security & Network
+# # # # # 安全网络
 
 ```markdown
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
@@ -41,7 +39,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ```
 
-## 📊 Repo meta (dynamic — shields reads GitHub)
+^ 📊 Repo meta(动力学——盾读 GitHub)
 
 ```markdown
 ![Stars](https://img.shields.io/github/stars/USER/REPO?style=social)
@@ -52,18 +50,18 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![CI](https://img.shields.io/github/actions/workflow/status/USER/REPO/ci.yml)
 ```
 
-## 🌈 Style parameters
+# # # # # 样式参数
 
-| Param | Effect |
+* 帕拉姆 * 效果 *
 |---|---|
-| `style=flat` | default clean look |
-| `style=flat-square` | sharp corners |
-| `style=for-the-badge` | big blocky badges |
-| `style=social` | GitHub-style stars/forks |
+`style=flat` 默认的清洁外观
+`style=flat-square` 锐角
+`style=for-the-badge`大块徽章
+| `style=social` | GitHub型恒星/叉 | |
 
-Full logo catalog: https://simpleicons.org
+完整标志目录: https://simpleicons.org
 
-## 🏗️ Frameworks & Libraries
+# # ## 框架和图书馆
 
 ```markdown
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -76,7 +74,7 @@ Full logo catalog: https://simpleicons.org
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
 ```
 
-## ☁️ Cloud & DevOps
+##### 云与云
 
 ```markdown
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=white)
@@ -88,7 +86,7 @@ Full logo catalog: https://simpleicons.org
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ```
 
-## 🗄️ Databases
+^ QQ 数据库
 
 ```markdown
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
@@ -98,7 +96,7 @@ Full logo catalog: https://simpleicons.org
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ```
 
-## 🤖 AI & LLM
+#### AI & LLM
 
 ```markdown
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
@@ -109,15 +107,15 @@ Full logo catalog: https://simpleicons.org
 ![TensorFlow](https://img.shields.io/badge/TF-FF6F00?logo=tensorflow&logoColor=white)
 ```
 
-## 🎨 Style reference (cheat table)
+□ QQ 样式参考( 热表)
 
-| Style | Param | Look |
+* 样式 * 帕拉姆 * 看 *
 |---|---|---|
-| flat | `?style=flat` | clean default |
-| flat-square | `?style=flat-square` | sharper |
-| for-the-badge | `?style=for-the-badge` | big blocks |
-| plastic | `?style=plastic` | glossy |
-| social | `?style=social` | GitHub stars style |
+`?style=flat` 干净的默认
+平方圆 `?style=flat-square` 更锋利
+-=YTET -伊甸园字幕组=- 翻译:
+`?style=plastic` 光泽
+社会 `?style=social` GitHub 明星风格
 
 ---
 ## 贡献
