@@ -4,13 +4,11 @@
 
 La plus grande collection de badges markdown pour tes README
 
-_Le contenu détaillé (listes, liens, descriptions) est en anglais pour rester maintenable — les sections ci-dessous te guident._
+Badges de marquage, prêts à coller
 
-## 🏷️ Markdown badges, ready to paste
+Format utilisé: `![alt](URLPH0X)` — remplacer LABEL/VALUE/COLOR/LOGO.
 
-Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&logoColor=white)` — replace LABEL/VALUE/COLOR/LOGO.
-
-## 💻 Languages
+Langues
 
 ```markdown
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -23,7 +21,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ```
 
-## 🖥️ OS & Platforms
+Système d'exploitation et plateformes
 
 ```markdown
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
@@ -33,7 +31,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ```
 
-## 🔒 Security & Network
+Sécurité et réseau
 
 ```markdown
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
@@ -41,7 +39,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ```
 
-## 📊 Repo meta (dynamic — shields reads GitHub)
+## Repo meta (dynamique — boucliers lit GitHub)
 
 ```markdown
 ![Stars](https://img.shields.io/github/stars/USER/REPO?style=social)
@@ -52,18 +50,18 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![CI](https://img.shields.io/github/actions/workflow/status/USER/REPO/ci.yml)
 ```
 
-## 🌈 Style parameters
+Paramètres de style
 
-| Param | Effect |
+Effet du param
 |---|---|
-| `style=flat` | default clean look |
-| `style=flat-square` | sharp corners |
-| `style=for-the-badge` | big blocky badges |
-| `style=social` | GitHub-style stars/forks |
+Par défaut, l'aspect propre du `style=flat`
+Coins aigus
+`style=for-the-badge`. Les badges bloquants
+`style=social`. Les étoiles de style GitHub/forks.
 
-Full logo catalog: https://simpleicons.org
+Catalogue complet du logo : https://simpleicons.org
 
-## 🏗️ Frameworks & Libraries
+Cadres et bibliothèques
 
 ```markdown
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -76,7 +74,7 @@ Full logo catalog: https://simpleicons.org
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
 ```
 
-## ☁️ Cloud & DevOps
+Nuage & DevOps
 
 ```markdown
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=white)
@@ -88,7 +86,7 @@ Full logo catalog: https://simpleicons.org
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ```
 
-## 🗄️ Databases
+Bases de données
 
 ```markdown
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
@@ -98,7 +96,7 @@ Full logo catalog: https://simpleicons.org
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ```
 
-## 🤖 AI & LLM
+L'IA & LLM
 
 ```markdown
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
@@ -109,15 +107,15 @@ Full logo catalog: https://simpleicons.org
 ![TensorFlow](https://img.shields.io/badge/TF-FF6F00?logo=tensorflow&logoColor=white)
 ```
 
-## 🎨 Style reference (cheat table)
+Référence style (table à thé)
 
-| Style | Param | Look |
+Style param.
 |---|---|---|
-| flat | `?style=flat` | clean default |
-| flat-square | `?style=flat-square` | sharper |
-| for-the-badge | `?style=for-the-badge` | big blocks |
-| plastic | `?style=plastic` | glossy |
-| social | `?style=social` | GitHub stars style |
+D'un clitoris propre par défaut
+Plus net
+Pour-le-bâilleur
+Plastique
+`?style=social`
 
 ---
 ## Contribuer
