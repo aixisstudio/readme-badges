@@ -4,11 +4,9 @@
 
 La mayor colección de badges markdown para tus README
 
-_El contenido detallado (listas, enlaces, descripciones) está en inglés por mantenibilidad — las secciones siguientes te guían._
+## 🏷down badges, ready to paste
 
-## 🏷️ Markdown badges, ready to paste
-
-Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&logoColor=white)` — replace LABEL/VALUE/COLOR/LOGO.
+Formato utilizado: `![alt](URLPH0X)` — reemplazar LABEL/VALUE/COLOR/LOGO.
 
 ## 💻 Languages
 
@@ -23,7 +21,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ```
 
-## 🖥️ OS & Platforms
+## 🖥Ω OS &amp; Platforms
 
 ```markdown
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
@@ -33,7 +31,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ```
 
-## 🔒 Security & Network
+## 🔒 Seguridad &gt; Red
 
 ```markdown
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
@@ -41,7 +39,7 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ```
 
-## 📊 Repo meta (dynamic — shields reads GitHub)
+## 📊 Repo meta (dinamic - escudos lee GitHub)
 
 ```markdown
 ![Stars](https://img.shields.io/github/stars/USER/REPO?style=social)
@@ -52,18 +50,18 @@ Format used: `![alt](https://img.shields.io/badge/LABEL-VALUE-COLOR?logo=LOGO&lo
 ![CI](https://img.shields.io/github/actions/workflow/status/USER/REPO/ci.yml)
 ```
 
-## 🌈 Style parameters
+## ¦
 
-| Param | Effect |
+Silencio para el futuro
 |---|---|
-| `style=flat` | default clean look |
-| `style=flat-square` | sharp corners |
-| `style=for-the-badge` | big blocky badges |
-| `style=social` | GitHub-style stars/forks |
+← `style=flat` Silencio predeterminado aspecto limpio
+TENIDO `style=flat-square` TENIDO esquinas afiladas
+Silencio `style=for-the-badge`
+Silencio `style=social` Silencio Al estilo GitHub estrellas/perks
 
-Full logo catalog: https://simpleicons.org
+Catálogo completo de logotipos: https://simpleicons.org
 
-## 🏗️ Frameworks & Libraries
+## 🏗ف Frameworks &quot; Libraries
 
 ```markdown
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -76,7 +74,7 @@ Full logo catalog: https://simpleicons.org
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
 ```
 
-## ☁️ Cloud & DevOps
+## ☁ف Cloud &gt; DevOps
 
 ```markdown
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=white)
@@ -88,7 +86,7 @@ Full logo catalog: https://simpleicons.org
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ```
 
-## 🗄️ Databases
+Bases de datos
 
 ```markdown
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)
@@ -98,7 +96,7 @@ Full logo catalog: https://simpleicons.org
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ```
 
-## 🤖 AI & LLM
+## 🤖 AI &amp; LLM
 
 ```markdown
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
@@ -109,15 +107,15 @@ Full logo catalog: https://simpleicons.org
 ![TensorFlow](https://img.shields.io/badge/TF-FF6F00?logo=tensorflow&logoColor=white)
 ```
 
-## 🎨 Style reference (cheat table)
+##  tuya Estilo de referencia (cama dorada)
 
-| Style | Param | Look |
+Silencioso estilo ← Param Silencio
 |---|---|---|
-| flat | `?style=flat` | clean default |
-| flat-square | `?style=flat-square` | sharper |
-| for-the-badge | `?style=for-the-badge` | big blocks |
-| plastic | `?style=plastic` | glossy |
-| social | `?style=social` | GitHub stars style |
+TEN SON TERRITOR SON ANTERIOR ANTERIOR TERRITORIO TERRITORIO TERRITORIO TERRITORIO TERRITORIO TERRITORNO TERRITORNO ANTERITORNO TERRENO
+TENIDO TERRITORIO TERRITORIO TERRITORIO TERRITORIO
+Silencio para el bajísimo Silencio `?style=for-the-badge`
+Silencio plástico Silencio `?style=plastic`
+Silencio social Silencio `?style=social`
 
 ---
 ## Contribuir
